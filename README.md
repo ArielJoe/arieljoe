@@ -1,4 +1,4 @@
-## 👋 Hello, my name's Ariel
+# 👋 Hello, my name's Ariel
 👨‍💻 4ᵗʰ semester Informatics Engineering student at Maranatha Christian University<br>🌱 I’m currently learning :<br><br>![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
 ## 🌐 Socials
